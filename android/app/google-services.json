@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933603602063",
+    "firebase_url": "https://mobilemoney-9a1f2.firebaseio.com",
+    "project_id": "mobilemoney-9a1f2",
+    "storage_bucket": "mobilemoney-9a1f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933603602063:android:281bb78d94a171ee264afa",
+        "android_client_info": {
+          "package_name": "com.example.MobileMoney4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933603602063-irlnq5m4hr0q0je5vd4bfnsribntvhma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4DxoxrsVc8xKNXru-Cg7mbXil04nSjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933603602063-irlnq5m4hr0q0je5vd4bfnsribntvhma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933603602063-vap7rpiai47b47ht7h8vdnv7k0l2riaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.MobileMoney3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
